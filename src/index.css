@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.wrapper{
+  padding-top: 5rem;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.rm{
+  background: #ccd;
+  border-radius: 40%;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
+.addTodo{
+  
+  padding: 10px;
+}
+
+.addTodoInput{
+  
+  height: 30px;
+  margin-right: 20px;
+  border-radius: 10%;
+}
+.addTodoButton{
+  height: 30px;
+  border-radius: 10%;
+}
+
